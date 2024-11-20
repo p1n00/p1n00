@@ -31,7 +31,7 @@ Estoy trabajando para mejorar mis habilidades cada día y compartir mis avances 
 
 ## 📫 Contáctame
 
-- **Correo:** [angelpdt05l@gmail.com](mailto:angelpdt05l@gmail.com)  
+- **Correo:** [angelpdt05@gmail.com](mailto:angelpdt05@gmail.com)  
 - **GitHub:** [github.com/p1n00](https://github.com/p1n00)  
 - **LinkedIn:** [https://www.linkedin.com/in/%C3%A1ngel-del-pino-torralbo-a4a265259/](https://www.linkedin.com/in/%C3%A1ngel-del-pino-torralbo-a4a265259/)  
 
