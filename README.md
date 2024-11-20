@@ -7,8 +7,7 @@ Soy un estudiante apasionado por la tecnología y actualmente me estoy especiali
 En mi perfil encontrarás proyectos que reflejan mi proceso de aprendizaje, con un enfoque en:
 
 - Desarrollo de aplicaciones en **Java**.
-- Proyectos en **Android** utilizando **Kotlin** y **Java**.
-- Experimentos con herramientas como **Swing**, **Room**, y más.
+- Proyectos utilizando herramientas como **Swing**, **Room**, y más.
 
 Estoy trabajando para mejorar mis habilidades cada día y compartir mis avances con la comunidad.
 
@@ -22,7 +21,6 @@ Estoy trabajando para mejorar mis habilidades cada día y compartir mis avances 
 
 - **Estructuras de datos y algoritmos** para escribir código más eficiente.
 - **Buenas prácticas en Java** como patrones de diseño.
-- Profundizando en **Android Studio** y el desarrollo móvil.
 
 ## 🌱 Próximos pasos
 
